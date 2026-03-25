@@ -1,5 +1,5 @@
 # Hospital_Management_Preprocessing
 
-> This repository is designed to clean and prepare five hospital management datasets: spanning billing,
-doctor biodata, patient records, appointments, and treatments, by creating the necessary fields 
-and structuring the data for visualization in Looker.
+>>This repository focuses on cleaning and preparing five hospital management datasets, ranging from billing records to treatment data. It integrates these datasets and creates additional columns to support effective data visualization in Looker Studio.
+
+>>Languages used: Python and SQLite
